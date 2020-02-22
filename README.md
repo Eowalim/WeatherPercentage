@@ -4,7 +4,7 @@ Plugin for minecraft that allows to change the percentage of weather change in g
 
 ## Informations
 
-Minecraft version supported: **1.12 - 1.15**
+⋅⋅*Minecraft version supported: **1.12 - 1.15**
 
 ## Commands
 
