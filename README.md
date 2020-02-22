@@ -18,6 +18,7 @@ As soon as the rain, snow or thunderstorm event is triggered a value will be dra
 ```yml
 prefix: "&7[§dWeatherPercent§7] &7&l>>&f "
 ```
+- Download on [Bukkit]().
 
 ## Commands
 
