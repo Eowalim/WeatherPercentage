@@ -47,10 +47,9 @@ public class ChangePercentWeather implements CommandExecutor {
                                 break;
 
                             case "actual":
-                                String last = cfg.getString("last");
                                 player.sendMessage(prefix + "§aThe current percentage is: §b" +
                                     Main.getInstance().getConfig().getInt("percent") +
-                                    "% §7(last edit:§c " + last + "§7)");
+                                    "% §7(last edit:§c " + cfg.getString("last") + "§7)");
                                 break;
                             default:
                                 commandList(player, prefix);
