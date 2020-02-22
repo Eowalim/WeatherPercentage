@@ -4,7 +4,7 @@ Plugin for minecraft that allows to change the percentage of weather change in g
 
 ---
 
-### How do you work the plugin ?
+### How do the plugin work ?
 The working of the plugin is very simple. You have a command (see below) that allows you to change the percentage. Once changed this percentage will be stored in a **config.yml** file.
 As soon as the rain, snow or thunderstorm event is triggered a value will be drawn between 0 and 100. 
  - If it is **higher** than the configured percentage the event will be cancelled.
