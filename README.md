@@ -10,8 +10,8 @@ As soon as the rain, snow or thunderstorm event is triggered a value will be dra
 
 ## Informations
 
-1. Minecraft version supported: **1.12 - 1.15**
-2. You can edit the **config.yml** file to change the prefix in front of chat messages.
+- Minecraft version supported: **1.12 - 1.15**
+- You can edit the **config.yml** file to change the prefix in front of chat messages.
 
 ```yml
 prefix: "&7[§dWeatherPercent§7] &7&l>>&f "
