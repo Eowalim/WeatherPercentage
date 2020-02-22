@@ -1,9 +1,9 @@
-package fr.eowalim.weatherpercent;
+package fr.eowalim.weatherpercentage;
 
-import fr.eowalim.weatherpercent.commands.ChangePercentWeather;
+import fr.eowalim.weatherpercentage.commands.ChangePercentWeather;
 
 
-import fr.eowalim.weatherpercent.listeners.WeatherPercentage;
+import fr.eowalim.weatherpercentage.listeners.WeatherPercentage;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

@@ -1,6 +1,6 @@
-package fr.eowalim.weatherpercent.listeners;
+package fr.eowalim.weatherpercentage.listeners;
 
-import fr.eowalim.weatherpercent.Main;
+import fr.eowalim.weatherpercentage.Main;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.weather.WeatherChangeEvent;

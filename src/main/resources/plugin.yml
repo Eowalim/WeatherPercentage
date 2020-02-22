@@ -1,8 +1,8 @@
-name: Unknown
+name: WeatherPercentage
 version: 1.0
 author: Eowaim
 api-version: 1.15
-main: fr.eowalim.weatherpercent.Main
+main: fr.eowalim.weatherpercentage.Main
 commands:
   wp:
     usage: /wp

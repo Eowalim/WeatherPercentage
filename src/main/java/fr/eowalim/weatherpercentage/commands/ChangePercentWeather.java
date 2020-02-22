@@ -1,6 +1,6 @@
-package fr.eowalim.weatherpercent.commands;
+package fr.eowalim.weatherpercentage.commands;
 
-import fr.eowalim.weatherpercent.Main;
+import fr.eowalim.weatherpercentage.Main;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
