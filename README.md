@@ -2,7 +2,7 @@
 
 Plugin for minecraft that allows to change the percentage of weather change in game.
 
-### H3 Commands
+## Commands
 
 Permission is required to perform these commands: **WeatherPercentage.wr**
 
