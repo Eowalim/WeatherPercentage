@@ -4,7 +4,8 @@ Plugin for minecraft that allows to change the percentage of weather change in g
 
 ## Informations
 
-⋅⋅*Minecraft version supported: **1.12 - 1.15**
+1. Minecraft version supported: **1.12 - 1.15**
+2. You can edit the **config.yml** file to change the prefix in front of chat messages.
 
 ## Commands
 
