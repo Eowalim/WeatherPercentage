@@ -8,8 +8,7 @@ Plugin for minecraft that allows to change the percentage of weather change in g
 2. You can edit the **config.yml** file to change the prefix in front of chat messages.
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+prefix: "&7[§dWeatherPercent§7] &7&l>>&f "
 ```
 
 ## Commands
