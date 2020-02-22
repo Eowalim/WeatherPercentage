@@ -2,6 +2,10 @@
 
 Plugin for minecraft that allows to change the percentage of weather change in game.
 
+## Informations
+
+Minecraft version supported: **1.12 - 1.15**
+
 ## Commands
 
 Permission is required to perform these commands: **WeatherPercentage.wr**
@@ -15,4 +19,3 @@ Command | Description
 ## Support
 
 If you need to report a bug or want to suggest a new feature, you can [open an issue on GitHub](https://github.com/Eowalim/WeatherPercentage/issues/new/choose).
-
