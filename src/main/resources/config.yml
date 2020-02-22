@@ -1,0 +1,6 @@
+#The prefix in front of the messages of the tchat.
+prefix: "&7[§dWeatherPercent§7] &7&l>>&f "
+#Nickname of the last player who changed the percentage.
+last: "Nobody"
+#Current percentage value.
+percent: 100

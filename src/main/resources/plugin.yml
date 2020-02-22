@@ -1,0 +1,9 @@
+name: Unknown
+version: 1.0
+author: Eowaim
+api-version: 1.15
+main: fr.eowalim.weatherpercent.Main
+commands:
+  wp:
+    usage: /wp
+    description: Command to change the percentage change in weather. To get the derivatives of this command do /wp help
