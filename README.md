@@ -16,7 +16,7 @@ As soon as the rain, snow or thunderstorm event is triggered a value will be dra
 - You can edit the **config.yml** file to change the prefix in front of chat messages.
 
 ```yml
-prefix: "&7[§dWeatherPercent§7] &7&l>>&f "
+prefix: "&7[§dWeatherPercentage§7] &7&l>>&f "
 ```
 - Download on [Bukkit]().
 
