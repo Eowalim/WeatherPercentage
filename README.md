@@ -11,3 +11,8 @@ Command | Description
 **/wp help** | *Gives the list of commands* 
 **/wp actual** | *Gives the current percentage* 
 **/wp percent value** | *Changes the value of the percentage which must be between 0 and 100.* 
+
+## Support
+
+If you need to report a bug or want to suggest a new feature, you can [open an issue on GitHub](https://github.com/Eowalim/WeatherPercentage/issues/new/choose).
+
