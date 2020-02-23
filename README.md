@@ -22,7 +22,7 @@ prefix: "&7[§dWeatherPercentage§7] &7&l>>&f "
 
 ## Commands
 
-Permission required: **WeatherPercentage.wr**
+Permission required: **weatherpercentage.use**
 
 Command | Description 
 --- | --- 
