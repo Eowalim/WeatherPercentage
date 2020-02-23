@@ -19,7 +19,7 @@ public class ChangePercentWeather implements CommandExecutor {
             final String prefix = cfg.getString("prefix").replace("&", "§");
 
             if (label.equalsIgnoreCase("wp")) {
-                if (player.hasPermission("WeatherPercentage.wp")) {
+                if (player.hasPermission("weatherpercentage.use")) {
                     if (args.length == 0) {
                         commandList(player, prefix);
                     } else {
