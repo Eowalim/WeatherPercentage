@@ -18,7 +18,7 @@ public class WeatherPercentage implements Listener {
         }
     }
     
-      @EventHandler
+    @EventHandler
     public void onThunderChange(ThunderChangeEvent event) {
         if (!event.isCancelled() && event.toThunderState()) {
             final int random = (int)(Math.random() * 100);
@@ -27,5 +27,4 @@ public class WeatherPercentage implements Listener {
             }
         }
     }
-
 }
