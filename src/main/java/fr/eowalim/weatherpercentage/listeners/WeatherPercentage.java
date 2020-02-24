@@ -4,6 +4,7 @@ import fr.eowalim.weatherpercentage.Main;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.weather.WeatherChangeEvent;
+import org.bukkit.event.weather.ThunderChangeEvent;
 
 public class WeatherPercentage implements Listener {
 
@@ -16,4 +17,15 @@ public class WeatherPercentage implements Listener {
             }
         }
     }
+    
+      @EventHandler
+    public void onThunderChange(ThunderChangeEvent event) {
+        if (!event.isCancelled() && event.toThunderState()) {
+            final int random = (int)(Math.random() * 100);
+            if (random > Main.getInstance().getConfig().getInt("percent")) {
+                event.setCancelled(true);
+            }
+        }
+    }
+
 }
